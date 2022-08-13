@@ -40,6 +40,3 @@ mongoose
 app.listen(3000, () => {
   console.log("server started at http://localhost:3000");
 });
-/*
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpvaG5kb2VAZG9tYWluLmNvbSIsInVpZCI6IjYxNjYzZGY5NDQ1NWUwYzA1OThmNjcxZiIsIm5hbWUiOiJKb2huIERvZSIsImlhdCI6MTYzNDI3NDc4MSwiZXhwIjoxNjM0MzYxMTgxfQ.4_Lf25ZQ8A3iJKDgP2Q5O5FG-WnNC57sGii5ck69g8c"
- */
